@@ -6,4 +6,4 @@ Frontend Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [biolaakande22@gmail.com](mailto:biolaakande22@gmail.com)
-* 🧠  I'm learning Word Press
+* 🧠  I'm learning Wordpress
